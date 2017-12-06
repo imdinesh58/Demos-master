@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "6b61cfca7f85e15abd5ae40f138ff983"
+build_time: [565849219, 295212000]
+inputs:
+  "/Users/apple-1/Downloads/Demos-master/TimerApp/TimerApp/ViewController.swift": [547533298, 0]
+  "/Users/apple-1/Downloads/Demos-master/TimerApp/TimerApp/AppDelegate.swift": [547533298, 0]

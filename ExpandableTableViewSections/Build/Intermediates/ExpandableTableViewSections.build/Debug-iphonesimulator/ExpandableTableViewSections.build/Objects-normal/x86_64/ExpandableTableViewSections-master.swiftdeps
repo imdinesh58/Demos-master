@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1d17bfc8b97d0079878cd07fae1d8dc2"
+build_time: [565856408, 952636000]
+inputs:
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Demos-master/ExpandableTableViewSections/ExpandableTableViewSections/ViewController.swift": [565856405, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Demos-master/ExpandableTableViewSections/ExpandableTableViewSections/AppDelegate.swift": [547533298, 0]

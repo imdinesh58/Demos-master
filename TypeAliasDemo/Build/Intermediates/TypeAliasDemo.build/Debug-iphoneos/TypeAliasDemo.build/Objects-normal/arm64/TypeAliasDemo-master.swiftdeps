@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "01e410be6483c77851bf7303c4ea42cf"
+build_time: [565795297, 350257000]
+inputs:
+  "/Users/apple-1/Downloads/Demos-master/TypeAliasDemo/TypeAliasDemo/ViewController.swift": [547533298, 0]
+  "/Users/apple-1/Downloads/Demos-master/TypeAliasDemo/TypeAliasDemo/AppDelegate.swift": [547533298, 0]

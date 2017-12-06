@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0cfc25ca65a82c4abbef1354d2551510"
+build_time: [565788720, 813004000]
+inputs:
+  "/Users/apple-1/Downloads/Demos-master/AdaptiveUILabel/AdaptiveUILabel/ViewController.swift": [547533298, 0]
+  "/Users/apple-1/Downloads/Demos-master/AdaptiveUILabel/AdaptiveUILabel/AppDelegate.swift": [547533298, 0]
